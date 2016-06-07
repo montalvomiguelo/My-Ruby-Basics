@@ -1,0 +1,9 @@
+---
+- !ruby/object:Contact
+  first_name: Nibi
+  middle_name: ''
+  last_name: Roberto
+  phone_numbers:
+  - work: 811 234 58 79
+  addresses:
+  - home: 'Av. Qwerty #123 México'
